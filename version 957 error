@@ -1,0 +1,6 @@
+If you are facing the wpf this problem and I search the search cannot find a solvtion to day 5/20/2024 i solve this. 
+The Problem is: 
+'The Database 'path' cannot be opened becouse it is verion 957. this server supports version 904 and earlier.'
+some time the problem is when we paste the database in multiple folder.
+some time the problem is when we install sql server 2022. 
+
